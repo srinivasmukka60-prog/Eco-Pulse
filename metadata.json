@@ -1,0 +1,6 @@
+{
+  "name": "EcoPulse - Smart Waste Management System",
+  "description": "AI-powered municipal waste monitoring, smart bin telemetry, route optimization, citizen complaint resolution, and recyclable classification platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
